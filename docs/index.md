@@ -10,4 +10,4 @@ A portfolio of all recent projects from my graduate program at CU Boulder.
 6. AirBnB
 
 ## SherLock vs. Moriarty
-https://github.com/ethandark310/ethandark310.github.io/tree/main/docs/SherLock%20vs.%20Moriarty%20Project
+[This link](https://github.com/ethandark310/ethandark310.github.io/tree/main/docs/SherLock%20vs.%20Moriarty%20Project)
