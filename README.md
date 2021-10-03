@@ -1,5 +1,5 @@
 # Ethan Dark Graduate Portfolio
-A portfolio of all recent projects from my graduate program at CU Boulder. My resume can be found [here](docs/Resume Github/ethandark resume.pdf)
+A portfolio of all recent projects from my graduate program at CU Boulder. My resume can be found [here](https://github.com/ethandark310/EthanDarkPortfolio/blob/6b8e9bdecee30348534ed91856f6331bff2a3aa6/docs/Resume%20Github/ethandark%20resume.pdf)
 
 ### Agenda
 1. SherLock vs. Moriarty
